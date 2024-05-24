@@ -4,8 +4,6 @@ from utils.text_preprocessor import preprocess_text
 from utils.text_chunking import semantic_chunking
 from utils.text_summarization import abstractive_summary
 
-import warnings
-warnings.filterwarnings('ignore')
 
 def main():
     # directory setup
