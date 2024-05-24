@@ -1,0 +1,22 @@
+# Data Extraction
+pdfminer.six
+
+# Preprocessing
+nltk
+spacy
+
+# Embedding
+sentence-transformers
+
+# Chunking
+scikit-learn
+kneed
+
+# LLM
+openai
+
+# Load Env.
+python-dotenv
+
+# Notebook
+jupyter
