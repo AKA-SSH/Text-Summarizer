@@ -1,7 +1,7 @@
 # Text Summarizer
 
 ## Description
-This is a dummy project based on a professional project developed for Dekin's University, Australia. The project focuses on text summarization, providing abstract summaries for research papers and reports. Additionally, it includes tasks such as question generation and a QnA bot.
+This is a dummy project based on a professional project I have worked on for Dekin's University, Australia. The project focuses on text summarization, providing abstract summaries for research papers and reports. Additionally, it includes tasks such as question generation and a QnA bot.
 
 ## Project Workflow
 1. PDF -> raw text
@@ -22,9 +22,10 @@ In this version of the project, semantic chunking has replaced the original gene
 5. Run `python src\main.py`
 
 ## Research Paper First Page
+Cannot share the full paper due to legal reasons.
 ![Research Paper](https://i.imgur.com/2teAXFS.png)
 
-## Sample
+## Text Summarization For Above Sampled Research Paper
 The text delves into the vulnerability of machine learning (ML) models in adversarial settings and the countermeasures developed by researchers in the academic and industrial community. It recognizes the remarkable performance of ML methods in areas such as autopilot systems, facial recognition, and spam detection. With the progress in deep learning methods and hardware accessibility for training intricate models, ML has surpassed human capabilities in numerous tasks.
 
 The interdisciplinary nature of ML is acknowledged, incorporating computer science, statistics, probability, and brain-like technologies. A security framework introduced in 2014 is highlighted, along with concerns surrounding deep learning techniques, especially deep neural networks (DNNs) excelling in multi-mode recognition tasks.
